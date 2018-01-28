@@ -1,11 +1,11 @@
 # x_jackers
 
-This project was part of the Hacking course at Ecole polytechnique (INF474X).
+This project was part of the [Ecole polytechnique](https://www.polytechnique.edu/en) hacking course (INF474X).
 
 Team Mates:
-- VincentCodeur
-- armand33 
-- toroloco
+- Armand Boschin (armand33)
+- Vincent Billaut (VincentCodeur)
+- Adrian Valente (toroloco)
 
 ## 1. Download
 Code available on this [repo](https://github.com/armand33/x_jackers).
