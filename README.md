@@ -8,10 +8,10 @@ Team Mates:
 - toroloco
 
 1. Find our code
-You can find our full code whenever you want on our public repo: https://github.com/armand33/x_jackers 
+You can find our full code whenever you want on this [repo](https://github.com/armand33/x_jackers).
 
 2. Compilation
-Prerequisites : you need to have libpcap (http://www.tcpdump.org/) and libnet (http://libnet.sourceforge.net/) installed in order to compile this program.
+Prerequisites : you need to have [libpcap](http://www.tcpdump.org/) and [libnet](http://libnet.sourceforge.net/) installed in order to compile this program.
 
 Compliation commands:
 - MAC flooder : `$ make flood`
