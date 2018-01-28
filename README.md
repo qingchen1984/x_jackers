@@ -7,10 +7,11 @@ Team Mates:
 - armand33 
 - toroloco
 
-1. Find our code
-You can find our full code whenever you want on this [repo](https://github.com/armand33/x_jackers).
+## 1. Download
+Code available on this [repo](https://github.com/armand33/x_jackers).
 
-2. Compilation
+## 2. Compilation
+
 Prerequisites : you need to have [libpcap](http://www.tcpdump.org/) and [libnet](http://libnet.sourceforge.net/) installed in order to compile this program.
 
 Compliation commands:
@@ -20,9 +21,7 @@ Compliation commands:
 - ARP spoofer : `$ make arpspoofer`
 - all : `$ make all`
 
-
-
-3. Usage
+## 3. Usage
 - MAC flooding attack : `$ ./MACFlooder <number of messages>`
 It will send the defined number of messages on the network with random IP and layer 2 addresses.
 - ARP flooding attack :  `$ ./ARPFlooder <number of messages>`
